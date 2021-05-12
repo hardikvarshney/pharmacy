@@ -1,0 +1,13 @@
+SMAP
+add_005fmanager_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_manager.jsp
+add_manager.jsp
+*L
+5,24:47
+28,6:71
+36,4:80
+39,80:84
+*E

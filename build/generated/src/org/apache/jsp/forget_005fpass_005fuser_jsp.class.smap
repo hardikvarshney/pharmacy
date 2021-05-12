@@ -1,0 +1,15 @@
+SMAP
+forget_005fpass_005fuser_jsp.java
+JSP
+*S JSP
+*F
++ 0 forget_pass_user.jsp
+forget_pass_user.jsp
+*L
+5,20:47
+24,3:67
+26,3:70
+28,3:73
+30,3:76
+32,75:79
+*E
